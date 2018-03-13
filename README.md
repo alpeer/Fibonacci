@@ -3,13 +3,16 @@
 
 Özyineli ya da formülle oluşturulan Fibonacci Dizisinde yaşanan başarım kayıplarını gidermek için tasarlanmıştır.
 
-
 ### Kullanım
 
 ```javascript
-Fibonacci[10] 		//89
-Fibonacci[1000] 	//7.033036771142261e+208
+Fibonacci[10] 		// 89
+Fibonacci[1000] 	// 7.033036771142261e+208
+Fibonacci.Sayısı 	// 1.618033988749895
 ```
+
+![Süleymaniye Cami](https://pbs.twimg.com/media/DEG7pgoXkAMt08A.jpg)
+_Altın oran kullanılan bir eser (Süleymaniye Cami 1558 - Mimar Sinan)_
 
 ### Fi sayısı (Altın Oran)
 
